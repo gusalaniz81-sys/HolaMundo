@@ -2,4 +2,4 @@
 
 mi primer repositorio en Github
 
-i like play footbal;
+i like :play footbal:, 
